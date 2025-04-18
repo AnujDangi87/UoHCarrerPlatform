@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StudentAlumni
+comment1.params=
+comment1.target=StudentAlumni()
+comment2.params=
+comment2.target=void\ userMenu()
+comment3.params=sc
+comment3.target=void\ useStudentAlumni(java.util.Scanner)
+comment4.params=sc
+comment4.target=void\ createUser(java.util.Scanner)
+comment5.params=sc\ jobData
+comment5.target=void\ applyJobs(java.util.Scanner,\ java.util.HashMap)
+comment6.params=sc
+comment6.target=void\ displayJobs(java.util.Scanner)
+comment7.params=
+comment7.target=boolean\ displayAppliedJobs()
+numComments=8
