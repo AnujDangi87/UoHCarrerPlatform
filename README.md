@@ -5,6 +5,7 @@ First phase : Simple application building without using software development tec
 Second phase : Appllication building after using analysis and uml.
 
 This project is made using BlueJ java editor.
+This project does not use any Graphical interface and file storage. Pure terminal based.
 
 PROJECT TITLE: UOH Carrer Platform
 PURPOSE OF PROJECT: A system for students and alumni at UoH to explore career opportunities and resources.
