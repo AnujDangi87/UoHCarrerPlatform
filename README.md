@@ -4,6 +4,9 @@ This is a mini project given by my Java and OOD processor to understand and impl
 First phase : Simple application building without using software development techniques and analysis part.
 Second phase : Appllication building after using analysis and uml.
 
+This project is made using BlueJ java editor.
+This project does not use any Graphical interface and file storage. Pure terminal based.
+
 PROJECT TITLE: UOH Carrer Platform
 PURPOSE OF PROJECT: A system for students and alumni at UoH to explore career opportunities and resources.
 VERSION or DATE: version-1.0 date: 15-04-2025
