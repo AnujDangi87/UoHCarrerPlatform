@@ -1,7 +1,7 @@
 # UoHCarrerPlatform
-This is a mini project given by my Java and OOD processor to understand and implement the concepts of Object Oriented Designing to build this application. This application is divided into two phases.
+This is a mini project given by my Java and OOD professor to understand and implement the concepts of Object Oriented Designing to build this application. This application is divided into two phases.
 
-First phase : Simple application building without using software development techniques and analysis part.
+First phase : Simple application building without using software development techniques and analysis part.<br>
 Second phase : Appllication building after using analysis and uml.
 
 This project is made using BlueJ java editor.
